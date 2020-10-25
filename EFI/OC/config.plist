@@ -536,7 +536,15 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				AwCYPg==
+				AwDImw==
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-stolenmem</key>
+				<data>
+				AAAwAQ==
 				</data>
 			</dict>
 		</dict>
